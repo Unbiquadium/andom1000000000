@@ -12,7 +12,7 @@ for w in range(1000000000):
     c+=1
   else:
     z+=1
-
+#q=3,4,5 -> vic
 print("lo")
 print(z) 
 print("vic")
