@@ -1,8 +1,6 @@
 import random
 z=0
-x=0
 c=0
-v=0
 
 for w in range(1000000000):
   q=random.randint(0,9)
